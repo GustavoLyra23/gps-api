@@ -1,0 +1,5 @@
+INSERT INTO tb_location (name,x,y) VALUES ('MacDonalds',27,12)
+INSERT INTO tb_location (name,x,y) VALUES ('BurgerKIng',31,18)
+INSERT INTO tb_location (name,x,y) VALUES ('Starbucks',15,12)
+INSERT INTO tb_location (name,x,y) VALUES ('Itau',19,21)
+INSERT INTO tb_location (name,x,y) VALUES ('Praca',19,22)
